@@ -1,3 +1,27 @@
+Plan:
+
+1. Create a table in Supabase
+2. Fetch and display data from supabase to the window
+3. Create button- creates the item entered and displays on the list. Make sure to clear and redisplay upon submit
+4. Delete button
+5. Item can be marked as completed, and when completed, it will display differently.
+
+Elements Needed:
+
+-   Header
+-   Container Div
+-   Div to hold shopping items
+-   Form with a label (to create items)
+-   submit button
+-   delete button
+
+Event Listeners Needed:
+
+-   submit on click for submit button
+-   window load on display
+-   delete on click
+-   on click, item is changed to 'true'/ completed
+
 Demo Link: https://web-shopping-list-supabase.netlify.app/
 
 Rubric:
